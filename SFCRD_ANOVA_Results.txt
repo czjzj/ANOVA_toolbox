@@ -1,0 +1,4 @@
+Source          SS              df              MSe             F-value         p-value        
+Measure         0.1587          4               3.967801e-02    4.542694e-01    7.687526e-01   
+Within          3.9305          45                                                             
+Total           4.0892          49                                                             
